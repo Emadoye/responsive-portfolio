@@ -42,7 +42,7 @@ p {
   margin: 20px;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 390px) {
   .primary-link {
     border-radius: 4px;
     padding: 20px 15px;
